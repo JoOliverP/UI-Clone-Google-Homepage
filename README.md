@@ -2,7 +2,7 @@
 UI Clone #15 - Google(Homepage)
 </h1>
 
-<p align="center"><a href="#">Homepage do Google com HTML & CSS </a> Clone da UI da página inicial do Google para fins de estudo.
+<p align="center">Homepage do Google com HTML & CSS ,Clone da UI da página inicial do Google para fins de estudo.
 </p>
 <p align="center">Clique <a href="https://www.youtube.com/watch?v=KgjzE1Sxtq0&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=3&ab_channel=Rocketseat">Aqui</a> para acessar a playlist no YouTube.</p>
 
