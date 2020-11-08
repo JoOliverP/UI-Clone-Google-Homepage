@@ -12,6 +12,8 @@ UI Clone #15 - Google(Homepage)
 - [x] HTML, CSS
 - [x] SVG Images
 
+Deployed da aplicação no Vercel através [deste link](https://ui-clone-google-homepage.vercel.app/).
+
 ## Iniciar projeto
 
 1. Abra a pasta do projeto no `VSCode`
